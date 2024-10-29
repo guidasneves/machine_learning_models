@@ -8,7 +8,7 @@ The purpose of this project is not to produce as optimized and computationally e
 * [Machine Learning from Scratch](#machine-learning-from-scratch)
   * [About](#about)
   * [Table of contents](#table-of-contents)
-  * [Algorithms]
+  * Algorithms
     + [Linear Regression](models/linear_regression.ipynb)
     + [Logistic Regression](models/logistic_regression.ipynb)
     + [Decision Tree](models/decision_tree.ipynb)
