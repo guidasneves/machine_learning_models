@@ -9,8 +9,8 @@ The purpose of this project is not to produce as optimized and computationally e
   * [About](#about)
   * [Table of contents](#table-of-contents)
   * [Algorithms]
-    + [Linear Regression](models/linear_regressio.ipynb)
-    + [Logistic Regression](models/logistic_regressio.ipynb)
+    + [Linear Regression](models/linear_regression.ipynb)
+    + [Logistic Regression](models/logistic_regression.ipynb)
     + [Decision Tree](models/decision_tree.ipynb)
     + [Neural Network](models/neural_network.ipynb)
     + [K-means](models/k_means.ipynb)
