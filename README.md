@@ -17,3 +17,10 @@ The purpose of this project is not to produce as optimized and computationally e
     + [Collaborative Filtering](models/collaborative_filtering.ipynb)
     + [Content Based Filtering](models/content_based_filtering.ipynb)
     + [Feature Scaling](models/feature_scaling.ipynb)
+  * [Installation](#Installation)
+
+## Installation
+Cloning the repository and downloading the libraries used in the models implementations.
+```Console
+https://github.com/guidasneves/machine_learning_models.git
+```
