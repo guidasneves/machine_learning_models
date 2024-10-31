@@ -14,8 +14,6 @@ The purpose of this project is not to produce as optimized and computationally e
     + [Decision Tree](models/decision_tree.ipynb)
     + [Neural Network](models/neural_network.ipynb)
     + [K-means](models/k_means.ipynb)
-    + [Collaborative Filtering](models/collaborative_filtering.ipynb)
-    + [Content Based Filtering](models/content_based_filtering.ipynb)
     + [Feature Scaling](models/feature_scaling.ipynb)
   * [Installation](#Installation)
 
