@@ -22,6 +22,6 @@ The purpose of this project is not to produce as optimized and computationally e
 ## Installation
 Cloning the repository and downloading the libraries used in the models implementations.
 ```Console
-https://github.com/guidasneves/machine_learning_models.git
+git clone https://github.com/guidasneves/machine_learning_models.git
 pip install -r requirements.txt
 ```
